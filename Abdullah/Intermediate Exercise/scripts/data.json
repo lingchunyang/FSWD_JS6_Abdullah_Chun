@@ -1,0 +1,73 @@
+let employees = `[
+    {
+        "Unique_ID": "75c549e00cb4",
+        "First_Name": "Sana",
+        "Last_Name": "Norris",
+        "Email_address": "sananorris@company.com",
+        "Job_Title": "Dynamic Infrastructure Administrator",
+        "Salary": "€82,500"
+    }, {
+        "Unique_ID": "58cb17be17c",
+        "First_Name": "Matthew",
+        "Last_Name": "Mccarthy",
+        "Email_address": "matthew.mccarthy@company.com",
+        "Job_Title": "Central Security Director",
+        "Salary": "€31,787"
+    }, {
+        "Unique_ID": "1b471a14b3b6",
+        "First_Name": "Sabrina",
+        "Last_Name": "Johnson",
+        "Email_address": "johnson@company.com",
+        "Job_Title": "Investor Intranet Strategist",
+        "Salary": "€37,500"
+    }, {
+        "Unique_ID": "eead2b04e459",
+        "First_Name": "James",
+        "Last_Name": "Hunt",
+        "Email_address": "jhunt@company.com",
+        "Job_Title": "Internal Intranet Specialist",
+        "Salary": "€42,500"
+    }, {
+        "Unique_ID": "584c9151020f",
+        "First_Name": "Aysha",
+        "Last_Name": "Hart",
+        "Email_address": "aysha.hart7@company.com",
+        "Job_Title": "Legacy Operations Executive",
+        "Salary": "€52,500"
+    }, {
+        "Unique_ID": "fc13fb30c203",
+        "First_Name": "David",
+        "Last_Name": "Berry",
+        "Email_address": "dave.berry5@company.com",
+        "Job_Title": "Senior Mobility Producer",
+        "Salary": "€32,500"
+    }, {
+        "Unique_ID": "0778e5817ce0",
+        "First_Name": "Leonie",
+        "Last_Name": "Owens",
+        "Email_address": "leonieowens@company.com",
+        "Job_Title": "Investor Identity Administrator",
+        "Salary": "€32,500"
+    }, {
+        "Unique_ID": "27fdde0bab2c",
+        "First_Name": "Christopher",
+        "Last_Name": "Mcbride",
+        "Email_address": "mcbridechris@company.com",
+        "Job_Title": "Principal Creative Orchestrator",
+        "Salary": "€42,500" 
+    }, {
+        "Unique_ID": "87226e4a912a",
+        "First_Name": "Penelope",
+        "Last_Name": "Hansen",
+        "Email_address": "penelope@company.com",
+        "Job_Title": "Senior Web Facilitator",
+        "Salary": "€62,700"
+    }, {
+        "Unique_ID": "97766c6edc32",
+        "First_Name": "Jason",
+        "Last_Name": "Johnston",
+        "Email_address": "jasonfr13th@company.com",
+        "Job_Title": "District Usability Planner",
+        "Salary": "€57,300"
+    }
+]`;
